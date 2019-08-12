@@ -18,3 +18,9 @@
 {"message":"GET / 304 - - 0.391 ms\n","level":"info","timestamp":"2019-08-12T10:14:44.732Z"}
 
 ```
+
+# run
+
+```
+nodemon .
+```
